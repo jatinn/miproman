@@ -25,7 +25,8 @@ setup(
     long_description=README,
     author="Jatin Nagpal",
     author_email="jatinn@outlook.com",
-    url="http://python-requests.org",
+    url="https://github.com/jatinn/miproman",
+    download_url="https://github.com/jatinn/miproman/tarball/0.1",
     license="Apache License 2.0",
     packages=find_packages(),
     install_requires=[

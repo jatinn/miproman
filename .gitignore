@@ -1,0 +1,7 @@
+MANIFEST
+build/
+dist/
+miproman.egg-info/
+*.pyc
+*.swp
+*.egg
